@@ -27,7 +27,6 @@ public class Emprunt {
 			}
 		}, dateRetour.getTime() - new Date().getTime());;
 	}
-
 	public Date getDateRetour() {
 		System.out.println("Date retour : ");
 		return dateRetour;
@@ -36,7 +35,9 @@ public class Emprunt {
 	public void setDateRetour(Date dateRetour) {
 		this.dateRetour = dateRetour;
 	}
-	
+	public Livre getLivre () {
+		return livre;
+	}
 	
 	
 }

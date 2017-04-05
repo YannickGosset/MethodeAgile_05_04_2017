@@ -13,7 +13,7 @@ public class Client {
 		}
 	}
 	
-public void notifier (Emprunt emprunt) {
-			System.out.println("Votre" + emprunts.get(emprunt).getLivre().getNom() + "  emprunt arrive à la date limite !");
+public void notifier () {
+			System.out.println("Votre  emprunt arrive à la date limite !");
 	}
 }

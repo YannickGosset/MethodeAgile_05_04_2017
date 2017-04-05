@@ -9,14 +9,14 @@ import com.bibliotheque.livres.Stock;
 
 public class IHM {
 
-	private Stock stock;
+	private static Stock stock;
 	
 	public IHM (Stock stock) {
 		this.stock = stock;
 	}
 
 	
-	public JPanel creerPanelLivres () {
+	public static JPanel creerPanelLivres () {
 		JPanel affichageLivres = new JPanel ();
 		
 		for (Livre l : stock.getLivresDisponibles()) {
