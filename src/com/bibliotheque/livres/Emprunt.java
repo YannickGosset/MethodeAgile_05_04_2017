@@ -1,6 +1,10 @@
 package com.bibliotheque.livres;
 
 import java.util.Date;
+import java.util.Timer;
+import java.util.TimerTask;
+
+import com.sun.security.ntlm.Client;
 
 public class Emprunt {
 
@@ -15,6 +19,13 @@ public class Emprunt {
 		this.livre = livre;
 		this.dateEmprunt = dateEmprunt;
 		this.dateRetour = dateRetour;
+		new Timer().schedule(new TimerTask() {
+			
+			@Override
+			public void run() {
+				client.notifier();
+			}
+		}, dateRetour.getTime() - new Date().getTime());;
 	}
 
 	public Date getDateRetour() {
