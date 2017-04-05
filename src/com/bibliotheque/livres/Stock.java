@@ -27,5 +27,16 @@ public class Stock {
 
 	public void ajouterLivreIndisponible(Livre livre){
 		livresIndisponibles.add(livre);
+<<<<<<< HEAD
+=======
+	}
+	
+	public void supprimerLivreDesDiponibles(Livre livre){
+		livresDisponibles.remove(livre);
+	}
+	
+	public void supprimerLivreDesIndiponibles(Livre livre){
+		livresIndisponibles.remove(livre);
+>>>>>>> af1d1855d8c6df1096b8574d23a30e1e3883acc0
 	}
 }
