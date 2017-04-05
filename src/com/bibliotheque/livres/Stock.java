@@ -22,10 +22,18 @@ public class Stock {
 	}
 	
 	public void ajouterLivreDisponible(Livre livre){
-		livresDisponibles.pushback();
+		livresDisponibles.add(livre);
 	}
 
 	public void ajouterLivreIndisponible(Livre livre){
-		livresIndisponibles.pushback();
+		livresIndisponibles.add(livre);
+	}
+	
+	public void supprimerLivreDesDiponibles(Livre livre){
+		livresDisponibles.remove(livre);
+	}
+	
+	public void supprimerLivreDesIndiponibles(Livre livre){
+		livresIndisponibles.remove(livre);
 	}
 }
