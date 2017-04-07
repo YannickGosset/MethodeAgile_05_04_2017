@@ -23,25 +23,17 @@ public class Livre{
 		return estDisponible;
 	}
 
-<<<<<<< HEAD
-=======
 	public String getTitre() {
 		return titre;
 	}
 
->>>>>>> af1d1855d8c6df1096b8574d23a30e1e3883acc0
 	public String getGenre() {
 		return genre;
 	}
 
 	public void setGenre(String genre) {
 		this.genre = genre;
-<<<<<<< HEAD
-	}
+}
 
 	
-	
-=======
-	}	
->>>>>>> af1d1855d8c6df1096b8574d23a30e1e3883acc0
 }
