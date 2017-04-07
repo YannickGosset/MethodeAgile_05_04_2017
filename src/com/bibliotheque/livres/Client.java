@@ -9,12 +9,16 @@ public class Client {
 
 	public void emprunter(Livre livre) {
 		if (livre.isEstDisponible()) {
-			emprunts.add(new Emprunt(this, livre, new Date(), new Date(new Date().getTime()+30000)));
+			emprunts.add(new Emprunt(this, livre, new Date(), new Date(new Date().getTime()+10000)));
 		}
 	}
-
 
 	public void notifier() {
 		System.out.println("Votre emprunt arrive à la date limite !");
 	}
+
+	public ArrayList<Emprunt> getEmprunts() {
+		return emprunts;
+	}
+	
 }
