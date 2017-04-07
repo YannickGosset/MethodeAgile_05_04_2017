@@ -33,7 +33,7 @@ public class Livre{
 
 	public void setGenre(String genre) {
 		this.genre = genre;
-}
+    }
 
 	
 }

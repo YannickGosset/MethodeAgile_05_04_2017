@@ -3,13 +3,12 @@ package com.bibliotheque.livres;
 import java.util.ArrayList;
 
 public class Stock {
-	protected ArrayList<Livre> livresDisponibles = new ArrayList<Livre>();
+	private ArrayList<Livre> livresDisponibles = new ArrayList<Livre>();
 	private ArrayList<Livre> livresIndisponibles = new ArrayList<Livre>();
 	
 	
 	
 	public Stock(ArrayList<Livre> livresDisponibles, ArrayList<Livre> livresIndisponibles) {
-		super();
 		this.livresDisponibles = livresDisponibles;
 		this.livresIndisponibles = livresIndisponibles;
 	}

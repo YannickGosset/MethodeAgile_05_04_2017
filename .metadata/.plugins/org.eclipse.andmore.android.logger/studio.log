@@ -1,0 +1,65 @@
+2017-04-07 09:52:05,068 [Worker-1] DEBUG class java.lang.Class - Starting Andmore Common Plugin...
+2017-04-07 09:52:05,068 [Worker-1] DEBUG class java.lang.Class - Andmore Common Plugin started.
+2017-04-07 09:52:05,068 [Worker-1] DEBUG class java.lang.Class - Starting Andmore Plugin...
+2017-04-07 09:52:05,077 [Worker-1] DEBUG class java.lang.Class - Andmore Plugin started.
+2017-04-07 09:52:05,992 [Worker-1] DEBUG class java.lang.Class - Starting Andmore Emulator Plugin...
+2017-04-07 09:52:06,037 [Worker-1] DEBUG class java.lang.Class - Andmore Emulator Plugin started.
+2017-04-07 09:52:07,952 [Worker-1] DEBUG class java.lang.Class - Starting Andmore Device Services Plugin...
+2017-04-07 09:52:07,952 [Worker-1] DEBUG class java.lang.Class - Andmore Device Services Plugin started.
+2017-04-07 09:52:07,985 [Worker-1] DEBUG class java.lang.Class - Starting Andmore Handset Plugin...
+2017-04-07 09:52:07,985 [Worker-1] DEBUG class java.lang.Class - Andmore Handset Plugin started.
+2017-04-07 09:52:08,016 [Worker-1] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin...
+2017-04-07 09:52:08,023 [Worker-1] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin started.
+2017-04-07 09:52:08,044 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-07 09:52:08,044 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-07 09:52:08,044 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-07 09:52:08,044 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-07 09:52:08,044 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-07 09:52:08,044 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-07 09:52:08,044 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-07 09:52:08,045 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-07 09:52:08,045 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-07 09:52:08,045 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-07 09:52:08,045 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-07 09:52:08,045 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-07 09:52:08,045 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-07 09:52:08,045 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-07 09:52:08,045 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-07 09:52:08,045 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-07 09:52:08,045 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-07 09:52:08,045 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-07 09:52:08,045 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-07 09:52:08,045 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-07 09:52:08,045 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-07 09:52:08,045 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-07 09:52:08,045 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-07 09:52:08,045 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-07 09:52:08,045 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-07 09:52:08,045 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-07 09:52:08,045 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-07 09:52:08,045 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-07 09:52:08,045 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-07 09:52:08,045 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-07 09:52:08,045 [Worker-1] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offline;name=Offline]
+2017-04-07 09:52:08,045 [Worker-1] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.handset.status.handsetonline;name=Online]
+2017-04-07 09:52:08,045 [Worker-1] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2017-04-07 09:52:08,045 [Worker-1] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.notavailable;name=Not available]
+2017-04-07 09:52:08,045 [Worker-1] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2017-04-07 09:52:08,045 [Worker-1] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.connected;name=Connected]
+2017-04-07 09:52:08,045 [Worker-1] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.disconnected;name=Disconnected]
+2017-04-07 09:52:08,045 [Worker-1] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.online;name=Online]
+2017-04-07 09:52:08,045 [Worker-1] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2017-04-07 09:52:08,045 [Worker-1] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offlineNoData;name=Offline (no user data)]
+2017-04-07 09:53:45,968 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Core Plugin...
+2017-04-07 09:53:46,042 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://496.fwk1270823096/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:plugins/org.eclipse.andmore.android.common_0.5.0.201605181018.jar
+2017-04-07 09:53:46,061 [main] DEBUG Studio for Android - JDBC Driver Path:/usr/local/eclipse/configuration/org.eclipse.osgi/496/0/.cp/res/androidjdbc.jar
+2017-04-07 09:53:46,061 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://496.fwk1270823096/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:plugins/org.eclipse.andmore.android.common_0.5.0.201605181018.jar
+2017-04-07 09:53:46,061 [main] DEBUG Studio for Android - JDBC Driver Path:/usr/local/eclipse/configuration/org.eclipse.osgi/496/0/.cp/res/androidjdbc.jar
+2017-04-07 09:53:46,071 [main] INFO  Studio for Android - Created a JDBC driver instance at Data Tools.
+2017-04-07 09:53:46,074 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Core Plugin started.
+2017-04-07 09:53:46,075 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Devices Support Plugin...
+2017-04-07 09:53:46,076 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Devices Support Plugin started...
+2017-04-07 09:53:46,916 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.start.StartServicePlugin-SHUTDOWN
+2017-04-07 09:53:46,968 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.ui.DeviceUIPlugin-SHUTDOWN
+2017-04-07 09:53:46,968 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.stop.StopServicePlugin-SHUTDOWN
+2017-04-07 09:53:46,968 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.DevicePlugin-SHUTDOWN
